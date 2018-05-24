@@ -66,24 +66,24 @@ button.button:hover span:after {
   background: #0000;
   color: black;
 }
-a:link {
+.app:link {
     color: green;
     background-color: transparent;
     text-decoration: none;
     border-bottom: 2px solid blue;
 }
-a:visited {
+.app:visited {
     color: black;
     background-color: transparent;
     text-decoration: none;
 }
-a:hover {
+.app:hover {
     color: black;
     background-color: transparent;
     text-decoration: none;
     border-bottom-color: blue;
 }
-a:active {
+.app:active {
     color: blue;
     background-color: transparent;
     text-decoration: overline;
@@ -103,7 +103,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-<a href="https://github.com/raffa1996/OCR_Reader" target="_blank">OCR Reader</a>  
+<a href="https://github.com/raffa1996/OCR_Reader" class="app" target="_blank">OCR Reader</a>  
 2. [Clima](https://github.com/raffa1996/Clima) 
 3. [Fortune Teller](https://github.com/raffa1996/FortuneBall)
 4. [GODis1](https://github.com/raffa1996/GODis1)
