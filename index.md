@@ -71,7 +71,7 @@ button.button:hover span:after {
 <button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Projects </span></button><br>
 Find me on <a href="https://twitter.com/ra999666" class="fa fa-twitter"></a> and <a href="https://github.com/raffa1996" class="fa fa-github"></a>. 
 <br>
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
@@ -81,13 +81,15 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. [OCR Reader](https://github.com/raffa1996/OCR_Reader) 
+2. [Clima](https://github.com/raffa1996/Clima) 
+3. [Fortune Teller](https://github.com/raffa1996/FortuneBall)
+4. [GODis1](https://github.com/raffa1996/GODis1)
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
