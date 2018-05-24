@@ -78,16 +78,12 @@ button.button:hover span:after {
     text-decoration: none;
 }
 .app:hover {
-    color: black;
+    color: blue;
     background-color: transparent;
     text-decoration: none;
     border-bottom-color: blue;
 }
-.app:active {
-    color: blue;
-    background-color: transparent;
-    text-decoration: overline;
-}
+
 </style>
 <button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Home </span></button> |  <button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Apps </span></button> | 
 <button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Projects </span></button><br>
