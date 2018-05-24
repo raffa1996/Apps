@@ -11,7 +11,7 @@ button.button {
   width: 70px;
   transition: all 0.5s;
   cursor: pointer;
-  margin: 5px;
+  margin: auto;
 }
 
 button.button span {
