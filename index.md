@@ -66,6 +66,28 @@ button.button:hover span:after {
   background: #0000;
   color: black;
 }
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+    border-bottom: 2px solid blue;
+}
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+    border-bottom-color: blue;
+}
+a:active {
+    color: blue;
+    background-color: transparent;
+    text-decoration: overline;
+}
 </style>
 <button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Home </span></button> |  <button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Apps </span></button> | 
 <button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Projects </span></button><br>
@@ -81,7 +103,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. [OCR Reader](https://github.com/raffa1996/OCR_Reader) 
+<a href="https://github.com/raffa1996/OCR_Reader" target="_blank">OCR Reader</a>  
 2. [Clima](https://github.com/raffa1996/Clima) 
 3. [Fortune Teller](https://github.com/raffa1996/FortuneBall)
 4. [GODis1](https://github.com/raffa1996/GODis1)
