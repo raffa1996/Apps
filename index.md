@@ -78,7 +78,7 @@ button.button:hover span:after {
     text-decoration: none;
 }
 .app:hover {
-    color: blue;
+    color: black;
     background-color: transparent;
     text-decoration: none;
     border-bottom-color: blue;
