@@ -99,10 +99,10 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. <a href="https://github.com/raffa1996/OCR_Reader" class="app" target="_blank">OCR Reader</a>  
-2. <a href="https://github.com/raffa1996/Clima" class="app" target="_blank">Clima</a>
-3. <a href="https://github.com/raffa1996/FortuneBall" class="app" target="_blank">Fortune Teller</a>
-4. <a href="https://github.com/raffa1996/GODis1" class="app" target="_blank">GODis1</a>
+* <a style="font-size:20px" href="https://github.com/raffa1996/OCR_Reader" class="app" target="_blank">OCR Reader</a>  
+* <a style="font-size:20px" href="https://github.com/raffa1996/Clima" class="app" target="_blank">Clima</a>
+* <a href="https://github.com/raffa1996/FortuneBall" class="app" style="font-size:20px" target="_blank">Fortune Teller</a>
+* <a href="https://github.com/raffa1996/GODis1" class="app" style="font-size:20px" target="_blank">GODis1</a>
 
 **Bold** and _Italic_ and `Code` text
 
