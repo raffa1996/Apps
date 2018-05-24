@@ -70,7 +70,7 @@ button.button:hover span:after {
     color: green;
     background-color: transparent;
     text-decoration: none;
-    border-bottom: 2px solid blue;
+    border-bottom: 1px solid blue;
 }
 .app:visited {
     color: black;
@@ -99,10 +99,10 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-<a href="https://github.com/raffa1996/OCR_Reader" class="app" target="_blank">OCR Reader</a>  
-2. [Clima](https://github.com/raffa1996/Clima) 
-3. [Fortune Teller](https://github.com/raffa1996/FortuneBall)
-4. [GODis1](https://github.com/raffa1996/GODis1)
+1. <a href="https://github.com/raffa1996/OCR_Reader" class="app" target="_blank">OCR Reader</a>  
+2. <a href="https://github.com/raffa1996/Clima" class="app" target="_blank">Clima</a>
+3. <a href="https://github.com/raffa1996/FortuneBall" class="app" target="_blank">Fortune Teller</a>
+4. <a href="https://github.com/raffa1996/GODis1" class="app" target="_blank">GODis1</a>
 
 **Bold** and _Italic_ and `Code` text
 
