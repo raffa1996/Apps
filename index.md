@@ -70,7 +70,7 @@ button.button:hover span:after {
     color: green;
     background-color: transparent;
     text-decoration: none;
-    border-bottom: 1px solid blue;
+    border-bottom: 2px solid blue;
 }
 .app:visited {
     color: black;
